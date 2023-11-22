@@ -1219,8 +1219,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":47,
- "nextobjectid":2,
+ "nextlayerid":50,
+ "nextobjectid":13,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1929,6 +1929,19 @@
          "name":"youtubevideo",
          "spacing":0,
          "tilecount":8,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":25,
+         "firstgid":5652,
+         "image":"assets\/WA_Room_Builder.png",
+         "imageheight":1280,
+         "imagewidth":800,
+         "margin":0,
+         "name":"WA_Room_Builder",
+         "spacing":0,
+         "tilecount":1000,
          "tileheight":32,
          "tilewidth":32
         }],
