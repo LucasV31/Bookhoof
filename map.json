@@ -1239,15 +1239,17 @@
                     {
                      "color":"#ff0000",
                      "fontfamily":"SimHei",
+                     "halign":"center",
                      "pixelsize":20,
                      "text":"Room 3",
+                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":224.333333333333,
-                 "x":1032.83333333333,
-                 "y":1064.83333333333
+                 "x":968.83333333333,
+                 "y":1055.83333333333
                 }, 
                 {
                  "height":102.6667,
@@ -1289,15 +1291,17 @@
                     {
                      "color":"#ff0000",
                      "fontfamily":"SimHei",
+                     "halign":"center",
                      "pixelsize":20,
                      "text":"Room 1",
+                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":211.3333,
-                 "x":595.83335,
-                 "y":1024.16665
+                 "x":516.83335,
+                 "y":1003.16665
                 }],
          "opacity":1,
          "type":"objectgroup",
