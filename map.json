@@ -1225,7 +1225,7 @@
          "name":"TExt",
          "objects":[
                 {
-                 "height":27.6666666666667,
+                 "height":91.6666666666667,
                  "id":15,
                  "name":"",
                  "properties":[
@@ -1239,18 +1239,18 @@
                     {
                      "color":"#ff0000",
                      "fontfamily":"SimHei",
-                     "pixelsize":24,
+                     "pixelsize":20,
                      "text":"Room 3",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":78.3333333333333,
-                 "x":1085.83333333333,
+                 "width":139.333333333333,
+                 "x":1054.83333333333,
                  "y":1061.83333333333
                 }, 
                 {
-                 "height":27.6667,
+                 "height":102.6667,
                  "id":16,
                  "name":"",
                  "properties":[
@@ -1264,18 +1264,18 @@
                     {
                      "color":"#ff0000",
                      "fontfamily":"SimHei",
-                     "pixelsize":24,
+                     "pixelsize":20,
                      "text":"Room 2",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":78.3333,
+                 "width":191.3333,
                  "x":156.166683333333,
                  "y":1027.49998333333
                 }, 
                 {
-                 "height":27.6667,
+                 "height":78.6667,
                  "id":17,
                  "name":"",
                  "properties":[
@@ -1289,13 +1289,13 @@
                     {
                      "color":"#ff0000",
                      "fontfamily":"SimHei",
-                     "pixelsize":24,
+                     "pixelsize":20,
                      "text":"Room 1",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":78.3333,
+                 "width":141.3333,
                  "x":602.83335,
                  "y":1024.16665
                 }],
