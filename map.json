@@ -1218,9 +1218,95 @@
          "width":45,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":52,
+         "name":"TExt",
+         "objects":[
+                {
+                 "height":27.6666666666667,
+                 "id":15,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"font-family",
+                         "type":"string",
+                         "value":"\"Press Start 2P\""
+                        }],
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ff0000",
+                     "fontfamily":"SimHei",
+                     "pixelsize":24,
+                     "text":"Room 3",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":78.3333333333333,
+                 "x":1085.83333333333,
+                 "y":1061.83333333333
+                }, 
+                {
+                 "height":27.6667,
+                 "id":16,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"font-family",
+                         "type":"string",
+                         "value":"\"Press Start 2P\""
+                        }],
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ff0000",
+                     "fontfamily":"SimHei",
+                     "pixelsize":24,
+                     "text":"Room 2",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":78.3333,
+                 "x":156.166683333333,
+                 "y":1027.49998333333
+                }, 
+                {
+                 "height":27.6667,
+                 "id":17,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"font-family",
+                         "type":"string",
+                         "value":"\"Press Start 2P\""
+                        }],
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ff0000",
+                     "fontfamily":"SimHei",
+                     "pixelsize":24,
+                     "text":"Room 1",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":78.3333,
+                 "x":602.83335,
+                 "y":1024.16665
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":50,
- "nextobjectid":13,
+ "nextlayerid":53,
+ "nextobjectid":18,
  "orientation":"orthogonal",
  "properties":[
         {
